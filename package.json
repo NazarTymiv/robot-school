@@ -1,0 +1,15 @@
+{
+  "name": "robot-school",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "TripToon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
